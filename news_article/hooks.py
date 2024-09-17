@@ -227,5 +227,5 @@ app_license = "MIT"
 #         "doctype": "Client Script",
 #     }
 # ]
-fixtures = [{"dt":"Client Script"}
+fixtures = [{"dt":"Client Script"},{"dt":"Server Script"}
 ]
