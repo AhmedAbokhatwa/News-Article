@@ -1,0 +1,387 @@
+[
+ {
+  "active": 0,
+  "committees": [
+   {
+    "parent": "HHH-YYYY--476967",
+    "parentfield": "committees",
+    "parenttype": "Generalization",
+    "select": 0,
+    "the_commission": "\u0627\u0644\u0628\u0635\u0644 \u0648\u0627\u0644\u062b\u0648\u0645"
+   },
+   {
+    "parent": "HHH-YYYY--476967",
+    "parentfield": "committees",
+    "parenttype": "Generalization",
+    "select": 0,
+    "the_commission": "\u0627\u0644\u0628\u0644\u062d \u0648\u0627\u0644\u062a\u0645\u0648\u0631 \u0627\u0644\u0637\u0627\u0632\u062c\u0647"
+   }
+  ],
+  "condition_of_members": "Active",
+  "docstatus": 0,
+  "doctype": "Generalization",
+  "due_date": "2024-04-08",
+  "email": 1,
+  "in_active": 0,
+  "modified": "2024-04-08 13:38:41.336049",
+  "name": "HHH-YYYY--476967",
+  "naming_series": null,
+  "push_notification": 0,
+  "send_the_circular_via": "",
+  "sms": 0,
+  "suspended": 0,
+  "terms": null,
+  "type": null,
+  "whatsapp": 0
+ },
+ {
+  "active": 0,
+  "committees": [
+   {
+    "parent": "HHH-YYYY--476968",
+    "parentfield": "committees",
+    "parenttype": "Generalization",
+    "select": 0,
+    "the_commission": "\u0627\u0644\u0646\u0628\u0627\u062a\u0627\u062a \u0627\u0644\u0637\u0628\u064a\u0629 \u0648\u0627\u0644\u0639\u0637\u0631\u064a\u0629"
+   },
+   {
+    "parent": "HHH-YYYY--476968",
+    "parentfield": "committees",
+    "parenttype": "Generalization",
+    "select": 0,
+    "the_commission": "\u0627\u0644\u0628\u0637\u0627\u0637\u0633"
+   },
+   {
+    "parent": "HHH-YYYY--476968",
+    "parentfield": "committees",
+    "parenttype": "Generalization",
+    "select": 0,
+    "the_commission": "\u0627\u0644\u0628\u0635\u0644 \u0648\u0627\u0644\u062b\u0648\u0645"
+   },
+   {
+    "parent": "HHH-YYYY--476968",
+    "parentfield": "committees",
+    "parenttype": "Generalization",
+    "select": 0,
+    "the_commission": "\u0627\u0644\u0628\u0644\u062d \u0648\u0627\u0644\u062a\u0645\u0648\u0631 \u0627\u0644\u0637\u0627\u0632\u062c\u0647"
+   },
+   {
+    "parent": "HHH-YYYY--476968",
+    "parentfield": "committees",
+    "parenttype": "Generalization",
+    "select": 0,
+    "the_commission": "\u0627\u0644\u0628\u0642\u0648\u0644\u064a\u0627\u062a \u0648\u0627\u0644\u0645\u062d\u0627\u0635\u064a\u0644 \u0627\u0644\u0632\u064a\u062a\u064a\u0629"
+   }
+  ],
+  "condition_of_members": "Active",
+  "docstatus": 0,
+  "doctype": "Generalization",
+  "due_date": "2024-04-09",
+  "email": 1,
+  "in_active": 0,
+  "modified": "2024-04-09 22:47:09.549766",
+  "name": "HHH-YYYY--476968",
+  "naming_series": null,
+  "push_notification": 0,
+  "send_the_circular_via": "",
+  "sms": 0,
+  "suspended": 0,
+  "terms": null,
+  "type": null,
+  "whatsapp": 0
+ },
+ {
+  "active": 0,
+  "committees": [
+   {
+    "parent": "HHH-YYYY--476969",
+    "parentfield": "committees",
+    "parenttype": "Generalization",
+    "select": 0,
+    "the_commission": "\u0627\u0644\u0628\u0635\u0644 \u0648\u0627\u0644\u062b\u0648\u0645"
+   },
+   {
+    "parent": "HHH-YYYY--476969",
+    "parentfield": "committees",
+    "parenttype": "Generalization",
+    "select": 0,
+    "the_commission": "\u0627\u0644\u0628\u0637\u0627\u0637\u0633"
+   },
+   {
+    "parent": "HHH-YYYY--476969",
+    "parentfield": "committees",
+    "parenttype": "Generalization",
+    "select": 0,
+    "the_commission": "\u0627\u0644\u0628\u0644\u062d \u0648\u0627\u0644\u062a\u0645\u0648\u0631 \u0627\u0644\u0637\u0627\u0632\u062c\u0647"
+   },
+   {
+    "parent": "HHH-YYYY--476969",
+    "parentfield": "committees",
+    "parenttype": "Generalization",
+    "select": 0,
+    "the_commission": "\u0627\u0644\u0628\u0642\u0648\u0644\u064a\u0627\u062a \u0648\u0627\u0644\u0645\u062d\u0627\u0635\u064a\u0644 \u0627\u0644\u0632\u064a\u062a\u064a\u0629"
+   },
+   {
+    "parent": "HHH-YYYY--476969",
+    "parentfield": "committees",
+    "parenttype": "Generalization",
+    "select": 0,
+    "the_commission": "\u0627\u0644\u062e\u0636\u0627\u0631"
+   },
+   {
+    "parent": "HHH-YYYY--476969",
+    "parentfield": "committees",
+    "parenttype": "Generalization",
+    "select": 0,
+    "the_commission": "\u0627\u0644\u0641\u0648\u0627\u0643\u0647"
+   },
+   {
+    "parent": "HHH-YYYY--476969",
+    "parentfield": "committees",
+    "parenttype": "Generalization",
+    "select": 0,
+    "the_commission": "\u0627\u0644\u0645\u0648\u0627\u0644\u062d"
+   },
+   {
+    "parent": "HHH-YYYY--476969",
+    "parentfield": "committees",
+    "parenttype": "Generalization",
+    "select": 0,
+    "the_commission": "\u0627\u0644\u0646\u0628\u0627\u062a\u0627\u062a \u0627\u0644\u0637\u0628\u064a\u0629 \u0648\u0627\u0644\u0639\u0637\u0631\u064a\u0629"
+   },
+   {
+    "parent": "HHH-YYYY--476969",
+    "parentfield": "committees",
+    "parenttype": "Generalization",
+    "select": 0,
+    "the_commission": "\u0632\u0647\u0648\u0631 \u0627\u0644\u0642\u0637\u0641 \u0648\u0646\u0628\u0627\u062a\u0627\u062a \u0627\u0644\u0632\u064a\u0646\u0629 \u0648\u0627\u0644\u0646\u062e\u064a\u0644"
+   }
+  ],
+  "condition_of_members": "Active",
+  "docstatus": 0,
+  "doctype": "Generalization",
+  "due_date": "2024-04-10",
+  "email": 1,
+  "in_active": 0,
+  "modified": "2024-04-09 22:53:46.018336",
+  "name": "HHH-YYYY--476969",
+  "naming_series": null,
+  "push_notification": 0,
+  "send_the_circular_via": "",
+  "sms": 0,
+  "suspended": 0,
+  "terms": null,
+  "type": null,
+  "whatsapp": 0
+ },
+ {
+  "active": 0,
+  "committees": [
+   {
+    "parent": "\u0644\u062c\u0646\u0629 \u0627\u0644\u062a\u0645\u0648\u0631 \u0648\u0627\u0644\u0628\u0644\u062d \u0627\u0644\u0637\u0627\u0632\u062c-476970",
+    "parentfield": "committees",
+    "parenttype": "Generalization",
+    "select": 0,
+    "the_commission": "\u0627\u0644\u0628\u0635\u0644 \u0648\u0627\u0644\u062b\u0648\u0645"
+   }
+  ],
+  "condition_of_members": "Active",
+  "docstatus": 0,
+  "doctype": "Generalization",
+  "due_date": "2024-04-18",
+  "email": 1,
+  "in_active": 0,
+  "modified": "2024-04-18 13:43:15.827969",
+  "name": "\u0644\u062c\u0646\u0629 \u0627\u0644\u062a\u0645\u0648\u0631 \u0648\u0627\u0644\u0628\u0644\u062d \u0627\u0644\u0637\u0627\u0632\u062c-476970",
+  "naming_series": null,
+  "push_notification": 0,
+  "send_the_circular_via": "",
+  "sms": 0,
+  "suspended": 0,
+  "terms": null,
+  "type": null,
+  "whatsapp": 0
+ },
+ {
+  "active": 0,
+  "committees": [
+   {
+    "parent": "HHH-YYYY--476971",
+    "parentfield": "committees",
+    "parenttype": "Generalization",
+    "select": 0,
+    "the_commission": "\u0627\u0644\u0628\u0637\u0627\u0637\u0633"
+   }
+  ],
+  "condition_of_members": "Active",
+  "docstatus": 0,
+  "doctype": "Generalization",
+  "due_date": "2024-04-18",
+  "email": 1,
+  "in_active": 0,
+  "modified": "2024-04-18 13:45:02.766616",
+  "name": "HHH-YYYY--476971",
+  "naming_series": null,
+  "push_notification": 0,
+  "send_the_circular_via": "",
+  "sms": 0,
+  "suspended": 0,
+  "terms": null,
+  "type": null,
+  "whatsapp": 0
+ },
+ {
+  "active": 0,
+  "committees": [
+   {
+    "parent": "HHH-YYYY--476972",
+    "parentfield": "committees",
+    "parenttype": "Generalization",
+    "select": 0,
+    "the_commission": "\u0627\u0644\u0628\u0637\u0627\u0637\u0633"
+   }
+  ],
+  "condition_of_members": "Active",
+  "docstatus": 0,
+  "doctype": "Generalization",
+  "due_date": "2024-04-04",
+  "email": 1,
+  "in_active": 0,
+  "modified": "2024-04-22 09:25:55.254413",
+  "name": "HHH-YYYY--476972",
+  "naming_series": null,
+  "push_notification": 0,
+  "send_the_circular_via": "",
+  "sms": 0,
+  "suspended": 0,
+  "terms": null,
+  "type": null,
+  "whatsapp": 0
+ },
+ {
+  "active": 0,
+  "committees": [
+   {
+    "parent": "HHH-YYYY--476974",
+    "parentfield": "committees",
+    "parenttype": "Generalization",
+    "select": 0,
+    "the_commission": "\u0627\u0644\u0628\u0635\u0644 \u0648\u0627\u0644\u062b\u0648\u0645"
+   }
+  ],
+  "condition_of_members": "Active",
+  "docstatus": 0,
+  "doctype": "Generalization",
+  "due_date": "2024-04-22",
+  "email": 1,
+  "in_active": 0,
+  "modified": "2024-04-22 11:50:50.286291",
+  "name": "HHH-YYYY--476974",
+  "naming_series": null,
+  "push_notification": 0,
+  "send_the_circular_via": "",
+  "sms": 0,
+  "suspended": 0,
+  "terms": null,
+  "type": null,
+  "whatsapp": 0
+ },
+ {
+  "active": 0,
+  "committees": [
+   {
+    "parent": "HHH-YYYY--476979",
+    "parentfield": "committees",
+    "parenttype": "Generalization",
+    "select": 0,
+    "the_commission": "\u0627\u0644\u0628\u0637\u0627\u0637\u0633"
+   },
+   {
+    "parent": "HHH-YYYY--476979",
+    "parentfield": "committees",
+    "parenttype": "Generalization",
+    "select": 0,
+    "the_commission": "\u0627\u0644\u0646\u0628\u0627\u062a\u0627\u062a \u0627\u0644\u0637\u0628\u064a\u0629 \u0648\u0627\u0644\u0639\u0637\u0631\u064a\u0629"
+   }
+  ],
+  "condition_of_members": "Active",
+  "docstatus": 0,
+  "doctype": "Generalization",
+  "due_date": "2024-05-08",
+  "email": 1,
+  "in_active": 0,
+  "modified": "2024-07-15 16:22:55.470845",
+  "name": "HHH-YYYY--476979",
+  "naming_series": null,
+  "push_notification": 0,
+  "send_the_circular_via": "",
+  "sms": 0,
+  "suspended": 0,
+  "terms": null,
+  "type": null,
+  "whatsapp": 0
+ },
+ {
+  "active": 0,
+  "committees": [
+   {
+    "parent": "HHH-YYYY--476985",
+    "parentfield": "committees",
+    "parenttype": "Generalization",
+    "select": 0,
+    "the_commission": "\u0627\u0644\u0628\u0635\u0644 \u0648\u0627\u0644\u062b\u0648\u0645"
+   }
+  ],
+  "condition_of_members": "Active",
+  "docstatus": 0,
+  "doctype": "Generalization",
+  "due_date": "2024-05-16",
+  "email": 1,
+  "in_active": 0,
+  "modified": "2024-05-16 10:38:01.308249",
+  "name": "HHH-YYYY--476985",
+  "naming_series": null,
+  "push_notification": 0,
+  "send_the_circular_via": "",
+  "sms": 0,
+  "suspended": 0,
+  "terms": null,
+  "type": null,
+  "whatsapp": 0
+ },
+ {
+  "active": 1,
+  "committees": [
+   {
+    "parent": "GN-09-2024-00001",
+    "parentfield": "committees",
+    "parenttype": "Generalization",
+    "select": 0,
+    "the_commission": "\u0627\u0644\u0628\u0635\u0644 \u0648\u0627\u0644\u062b\u0648\u0645"
+   },
+   {
+    "parent": "GN-09-2024-00001",
+    "parentfield": "committees",
+    "parenttype": "Generalization",
+    "select": 0,
+    "the_commission": "\u0627\u0644\u0628\u0637\u0627\u0637\u0633"
+   }
+  ],
+  "condition_of_members": "",
+  "docstatus": 0,
+  "doctype": "Generalization",
+  "due_date": null,
+  "email": 0,
+  "in_active": 0,
+  "modified": "2024-09-17 14:58:25.096626",
+  "name": "GN-09-2024-00001",
+  "naming_series": "GN-.MM.-.YYYY.-",
+  "push_notification": 0,
+  "send_the_circular_via": "",
+  "sms": 0,
+  "suspended": 0,
+  "terms": null,
+  "type": null,
+  "whatsapp": 0
+ }
+]

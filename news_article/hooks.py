@@ -213,3 +213,19 @@ app_license = "MIT"
 # auth_hooks = [
 # 	"news_article.auth.validate"
 # ]
+#-----------------------------
+# fixtures = [{
+#         "doctype": "Custom Field",
+#     },
+#     {
+#         "doctype": "Property Setter",
+#     },
+#     {
+#         "doctype": "Server Script",
+#     },
+#     {
+#         "doctype": "Client Script",
+#     }
+# ]
+fixtures = [{"dt":"Client Script"}
+]
